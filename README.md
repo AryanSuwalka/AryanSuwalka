@@ -5,9 +5,10 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_suwalka_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AryanSuwalka13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansuwalka1304@gmail.com) 
+
+
 </div>
 
 ###
@@ -24,11 +25,11 @@
 I'm a Computer Science Engineering student with a strong interest in Machine Learning, Deep Learning, NLP, and Generative AI.  
 I enjoy building projects that combine data analysis, visualization, and AI models to create real-world impact.
 
-- Exploring Neural Networks, Transformers, and GenAI
-- ⚙️ Learning MLOps & Deployment for production-ready AI
+- Exploring Data Science and Machine Learning.
+- ⚙️ L
 - Skilled in Data Analytics & Visualization
-- Strengthening Java + DSA fundamentals
-- ✍️ Motto: "Consistency transforms average into excellence."
+- Strengthening C++ + DSA fundamentals
+- ✍️ Motto: "Even if you are not the genius, you can beat the geniuses."
 
 ---
 
@@ -36,11 +37,12 @@ I enjoy building projects that combine data analysis, visualization, and AI mode
 
 | Category | Technologies |
 | --- | --- |
-| Languages | Python, Java |
+| Languages | Python, C/C++ |
 | Machine Learning | Scikit-learn, XGBoost, LightGBM, CatBoost |
 | Deep Learning | TensorFlow, PyTorch, Keras |
 | NLP / GenAI | NLTK, HuggingFace |
 | Data Analysis & Viz | NumPy, Pandas, Matplotlib, Seaborn, Plotly |
+| Web Development | HTML, CSS, JavaScript, React.js |
 | Deployment | FastAPI, Streamlit |
 | Tools | Git, GitHub, Jupyter, VS Code |
 
@@ -50,14 +52,18 @@ I enjoy building projects that combine data analysis, visualization, and AI mode
 
 ## 🚀 Featured Projects
 
-### Life Expectancy Analysis & Prediction
-Regression-based ML model predicting life expectancy from socio-economic & health factors.
+### Churn Prediction Model
+- Developed ML models in Python to predict telecom customer churn using **Logistic Regression & Random Forests**  
+- Performed EDA, feature engineering, hyperparameter tuning, and visualization with **Pandas & Seaborn**  
+- Optimized model performance for actionable market insights  
 
 - Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 - [Explore on GitHub](#)
 
-### Network Intrusion Detection (Prototype)
-ML model to detect unusual network traffic patterns for cybersecurity monitoring.
+### Book Recommender System
+- Built a hybrid recommender system (content-based & collaborative filtering) using **Python & Scikit-learn**  
+- Processed large datasets with **Pandas** and implemented similarity-based recommendation logic  
+- Developed a **Flask web app** for an interactive user interface
 
 - Tech Stack: Python, Pandas, Scikit-learn, Feature Engineering
 - [Explore on GitHub](#)
