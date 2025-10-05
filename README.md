@@ -64,12 +64,9 @@ ML model to detect unusual network traffic patterns for cybersecurity monitoring
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Language Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansuwalka&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=aryansuwalka&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryansuwalka&theme=nightowl&hide_border=true)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansuwalka&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
