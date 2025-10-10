@@ -42,7 +42,7 @@ I enjoy building projects that combine data analysis, visualization, and AI mode
 | Deep Learning | TensorFlow, PyTorch, Keras |
 | NLP / GenAI | NLTK, HuggingFace |
 | Data Analysis & Viz | NumPy, Pandas, Matplotlib, Seaborn, Plotly |
-| Web Development | HTML, CSS, JavaScript, React.js |
+| Web Development | HTML, CSS, JavaScript, React.js, MongoDB, Next.JS |
 | Deployment | FastAPI, Streamlit |
 | Tools | Git, GitHub, Jupyter, VS Code |
 
